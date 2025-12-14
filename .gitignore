@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# Build directory
+build/
+
+# Clangd cache
+.clangd/
+
+# Compilation database
+compile_commands.json
